@@ -1,0 +1,42 @@
+.container_sinopse{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container_sinopse_item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    margin-top: 1rem;
+}
+.title_sinopse{
+    font-size: 22px;
+    margin-bottom: 1rem;
+}
+.img_sinopse{
+    border-radius: 10px;
+    margin-bottom: 0.7rem;
+}
+.sinopse{
+    font-size: 18px;
+    margin: 0 0 15px 0;
+}
+.btns_sinopse{
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.btns_sinopse a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 10px;
+    background: #c4c4c4;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+}

@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    background: rgb(182, 0, 0);
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+}
+
+.header .salvos{
+    color: #000;
+    background: #fff;
+    padding:4px;
+    border-radius: 3px;
+    font-weight: 400;
+    cursor: pointer;
+    text-decoration: none;
+}
+.header .logo{
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-decoration: none;
+
+}
