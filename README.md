@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
     <li>Hospedagem: netlify</li>
 </ul>
 
-<img  src='./git/filmaria.gif' />
+<img  src='./git/filmaria.gif' alt='gif do projeto'/>
 
 <br/>
 
